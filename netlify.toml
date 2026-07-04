@@ -1,0 +1,3 @@
+# Reclaim GA public website — plain static site, no build step needed.
+[build]
+  publish = "."
